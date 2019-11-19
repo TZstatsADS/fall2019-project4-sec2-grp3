@@ -18,6 +18,7 @@ Term: Fall 2019
 	
 + Project summary: 
 Nowadays we are constantly being recommended from various sources, such as suitable movies and popular music. These recommendations focus on a more personal level than years ago. The major work of this project is to investigate, implement, evaluate and compare matrix factorization techniques which create latent features vectors for both items and users based on item rating patterns.
+
 Specifically, we compare two factorization algorithms:【Stochastic Gradient Descent】vs【Gradient Descent with Probabilistic Assumptions】. The main measure we use is RMSE. By cross validation, we tune parameters such as the dimension of factor and the penalty parameter lambda. In addition, to improve the performance of factorization, we use【kernel ridge regression】to postprocess previous optimal SVD results. Here we mainly adopt rbf kernel and tune its parameters such as alpha and gamma.
 
 
