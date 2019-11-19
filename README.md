@@ -15,7 +15,7 @@ Term: Fall 2019
 	
 + Project summary: The major work of this project is to implement, evaluate and compare algorithms for Collaborative Filtering. 
 	
-+Contribution statement
++ Contribution statement
 	+ Chen, Kanyan: 
 	+ Fang, Dingyi: 
 	+ Gong, Yuhan: 
