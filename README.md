@@ -12,9 +12,10 @@ Term: Fall 2019
 	+ team member 3: Gong, Yuhan yg2622@columbia.edu
 	+ team member 4: Gu, Feichi fg2458@columbia.edu
 	+ team member 5: Zhang, Haoyu hz2563@columbia.edu
+	
 + Project summary: The major work of this project is to implement, evaluate and compare algorithms for Collaborative Filtering. 
 	
-+Contribution statement+
++Contribution statement
 	+ Chen, Kanyan: 
 	+ Fang, Dingyi: 
 	+ Gong, Yuhan: 
