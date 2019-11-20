@@ -28,10 +28,10 @@ Specifically, we compare two factorization algorithms: A1【Stochastic Gradient 
 
 + Contribution statement: Kanyan Chen is the project leader. Other members contributed equally. All team members approve our work presented in this GitHub repository including this contributions statement.
 	+ Chen, Kanyan: create Python scripts for two factorization algorithms, kernel ridge regression, and cross validation; offer help for each step
-	+ Fang, Dingyi: tune parameter for A2 (Gradient Descent with Probabilistic Assumptions)
-	+ Gong, Yuhan: arrange group meetings, edit final report and make presentation
-	+ Gu, Feichi: tune parameter for kernel ridge regression
-	+ Zhang, Haoyu: tune parameter for A1 (Stochastic Gradient Descent)
+	+ Fang, Dingyi: tune parameters for A2 (Gradient Descent with Probabilistic Assumptions)
+	+ Gong, Yuhan: arrange group meetings, manage Github, edit final report and make presentation
+	+ Gu, Feichi: tune parameters for rbf kernel ridge regression, try different kernels for P3
+	+ Zhang, Haoyu: tune parameters for A1 (Stochastic Gradient Descent)
 
 
 + Reference:
