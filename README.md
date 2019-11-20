@@ -20,18 +20,18 @@ Term: Fall 2019
 
 Nowadays we are constantly being recommended from various sources, such as suitable movies and popular music. These recommendations focus on a more personal level than years ago. The major work of this project is to implement, evaluate and compare matrix factorization techniques which create latent features vectors for both items and users based on item rating patterns.
 
-Specifically, we compare two factorization algorithms:【Stochastic Gradient Descent】vs【Gradient Descent with Probabilistic Assumptions】. The main measure we use is RMSE. By cross validation, we tune parameters such as the dimension of factor and the penalty parameter lambda. In addition, to improve the performance of factorization, we use【kernel ridge regression】to postprocess previous optimal SVD results. Here we mainly adopt rbf kernel and tune its parameters such as alpha and gamma.
+Specifically, we compare two factorization algorithms: A1【Stochastic Gradient Descent】vs A2【Gradient Descent with Probabilistic Assumptions】. The main measure we use is RMSE. By cross validation, we tune parameters such as the dimension of factor and the penalty parameter lambda. In addition, to improve the performance of factorization, we use P3【kernel ridge regression】to postprocess previous optimal SVD results. Here we mainly adopt rbf kernel and tune its parameters such as alpha and gamma.
 
 
 + Main result: 
 
 
-+ Contribution statement
-	+ Chen, Kanyan: 
-	+ Fang, Dingyi: 
-	+ Gong, Yuhan: 
-	+ Gu, Feichi:
-	+ Zhang, Haoyu:
++ Contribution statement: Kanyan Chen is the project leader. Other members contributed equally. All team members approve our work presented in this GitHub repository including this contributions statement.
+	+ Chen, Kanyan: create Python scripts for two factorization algorithms, kernel ridge regression, and cross validation; offer help for each step
+	+ Fang, Dingyi: tune parameter for A2 (Gradient Descent with Probabilistic Assumptions)
+	+ Gong, Yuhan: arrange group meetings, edit final report and make presentation
+	+ Gu, Feichi: tune parameter for kernel ridge regression
+	+ Zhang, Haoyu: tune parameter for A1 (Stochastic Gradient Descent)
 
 
 + Reference:
