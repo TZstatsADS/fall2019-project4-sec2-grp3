@@ -24,6 +24,7 @@ Specifically, we compare two factorization algorithms: A1【Stochastic Gradient 
 
 
 + Main result: 
+A1 has lower test error and takes shorter time to process factorization than A2. A1 is more time-saving because A1 converges quickly and we set epoch value for A1 to be 200 while epoch for A2 is 500. In addition, P3 postprocessing seems to lose its power regarding improving accuracy on both algorithms. We think this may be reasonable because kernel ridge regression only utilize information in movie feature vectors and thus in some cases may not be a wise choice to improve performance of our recommender system.
 
 
 + Contribution statement: Kanyan Chen is the project leader. Other members contributed equally. All team members approve our work presented in this GitHub repository including this contributions statement.
