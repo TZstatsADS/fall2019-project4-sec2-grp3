@@ -30,10 +30,10 @@ A1 has lower test error and takes shorter time to process factorization than A2.
 
 + Contribution statement: Kanyan Chen is the project leader. Other members contributed equally. All team members approve our work presented in this GitHub repository including this contributions statement.
 	+ Chen, Kanyan: create Python scripts for two factorization algorithms, kernel ridge regression, and cross validation; finalize report with Yuhan; offer help for each step
-	+ Fang, Dingyi: tune parameters for A2 (Gradient Descent with Probabilistic Assumptions)
+	+ Fang, Dingyi: utilize cross validation to tune parameters for A2 (Gradient Descent with Probabilistic Assumptions)
 	+ Gong, Yuhan: arrange group meetings, manage Github, calculate running time and plotting, edit final report with Kanyan and make presentation
 	+ Gu, Feichi: tune parameters for rbf kernel ridge regression, try different kernels for P3
-	+ Zhang, Haoyu: tune parameters for A1 (Stochastic Gradient Descent)
+	+ Zhang, Haoyu: utilize cross validation to tune parameters for A1 (Stochastic Gradient Descent)
 
 
 + Reference:
